@@ -1,6 +1,6 @@
 # Equilibrium card
 
-![Imagen del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DEL-PROYECTO.jpg?raw=true)
+![Imagen del proyecto](https://github.com/danielveg4/segunda_prueba_sass_/blob/main/Captura%20de%20Pantalla%202023-05-08%20a%20las%2018.14.56.png?raw=true)
 
 ## Ejemplo en vivo
 
@@ -18,19 +18,11 @@ Una pequeña carta en la que se exploran diversas técnicas.
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://es.wikipedia.org/wiki/CSS)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://es.wikipedia.org/wiki/JavaScript)
 
-## Vista previa del proyecto
-
-Si quieres echar un vistazo al proyecto, te recomiendo:
-
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
-
 ## Autor ✒️
 
 **DANIEL VEGA**
 
-- [dvgilles@gmail.com](dvgilles@gmail.com]
+- [dvgilles@gmail.com](dvgilles@gmail.co,)
 - [LinkedIn](https://www.linkedin.com/in/tu-url-de-linkedin/)
 - [Porfolio web](https://tu-dominio.com/)
 
